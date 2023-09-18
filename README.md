@@ -11,7 +11,4 @@ From src directory:
 ## Setup your environment 
 You will need to have in your system
 
-- Java 17.0 or higher
-- Node and npm
-- Apache Maven
-- IDE or Editor
+- Node
